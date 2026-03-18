@@ -288,4 +288,5 @@ namespace Performance {
 		public void Subscribed( IObserver<ActivitySummaryArgs> obs ) {
 			log.info("{0}: Added subscriber {1}", this, obs);
 		}
+	}
 }
