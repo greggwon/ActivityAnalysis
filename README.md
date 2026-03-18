@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading;
 using ModbusPolling.Events;
 
-namespace ScadaPolling {
+namespace Performance {
 
 	/// <summary>
 	/// 
